@@ -123,5 +123,8 @@ public class Constant {
 	    public static final String PARAM_STATUS = "status";
 	    public static final String PARAM_CARD_VERIFY_PWD = "card_verify_pwd";
 
+	    public static void main(String[] args) {
+			System.out.println("hello");
+		}
 
 }
